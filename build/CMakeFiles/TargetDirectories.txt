@@ -1,0 +1,3 @@
+D:/2021Fall/ComputerAnimation/Lab1/Lab1/build/CMakeFiles/Lab1.dir
+D:/2021Fall/ComputerAnimation/Lab1/Lab1/build/CMakeFiles/edit_cache.dir
+D:/2021Fall/ComputerAnimation/Lab1/Lab1/build/CMakeFiles/rebuild_cache.dir

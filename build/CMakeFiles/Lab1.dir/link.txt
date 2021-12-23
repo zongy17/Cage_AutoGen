@@ -1,0 +1,3 @@
+D:\cmake-3.21.2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\Lab1.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\Lab1.dir/objects.a @CMakeFiles\Lab1.dir\objects1.rsp
+D:\mingw64\bin\x86_64-w64-mingw32-g++.exe -g  -Wl,--stack,1000000000 -Wl,--whole-archive CMakeFiles\Lab1.dir/objects.a -Wl,--no-whole-archive -o Lab1.exe -Wl,--out-implib,libLab1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lab1.dir\linklibs.rsp
